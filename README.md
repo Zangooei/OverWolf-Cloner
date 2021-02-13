@@ -13,7 +13,7 @@ EN:
 WOLF CLONER By FaridZ™#2168
 Use at your own risk
 Made By FaridZ™#2168
-
+--------------------------------------------------- 
 Fa:
 · Aval App Node js Ro Nasb Konid
 · File "config.json" Ra Baz Konid.
@@ -25,3 +25,4 @@ Fa:
 WOLF CLONER By FaridZ™#2168
 Use at your own risk
 Made By FaridZ™#2168
+--------------------------------------------------- 
